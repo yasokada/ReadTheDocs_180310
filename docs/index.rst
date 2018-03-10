@@ -10,8 +10,11 @@ Welcome to ReadTheDocs_180310's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   show2dimage_180310.ipynb
 
+Link
+====
+
+`show2dimage_180310 <https://github.com/yasokada/ReadTheDocs_180310/blob/master/docs/show2dimage_180310.ipynb>`_
 
 
 Indices and tables
