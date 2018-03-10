@@ -39,7 +39,8 @@ release = ''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'nbsphinx',  # 2018/03/10 for Jupyter Notebook (added by okada)
+    # 2018/03/10 commented out. Read the docs cannot handle this
+    #'nbsphinx',  # 2018/03/10 for Jupyter Notebook (added by okada)
 ]
 
 # Add any paths that contain templates here, relative to this directory.
